@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1826713435
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: avatar$b90455b3-34b0-45dc-adb2-703f65f0ae4a$sk_engi_trial.avatar
+      Dependencies: {}
+    Info_1:
+      Name: avatar$7e13aace-b56f-4db7-a3d7-5c4f0f251692$sk_engi.avatar
+      Dependencies: {}
+    Info_2:
+      Name: avatar$bc3155b7-bd03-4a5f-9b63-a88027675f15$gorm.avatar
+      Dependencies: {}
+    Info_3:
+      Name: avatar$a79abc3a-c2ad-4871-9b72-373909d4f1f7$gorm.avatar
+      Dependencies: {}
+    Info_4:
+      Name: avatar$b58bf969-e7e2-4c1c-a52b-383844b271bb$gorm.avatar
+      Dependencies: {}
+    Info_5:
+      Name: avatar$fa6bfb8a-afa5-442e-9304-a56f399c99b9$sk_engi.avatar
+      Dependencies: {}
